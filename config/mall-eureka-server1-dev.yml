@@ -1,8 +1,0 @@
-spring:
-  application:
-    name: mall-eureka-server1   #在注册中心显示的名字
-data:
-  env: config-eureka-dev
-  user:
-    username: admin
-    password: admin
